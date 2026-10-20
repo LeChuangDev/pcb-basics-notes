@@ -12,6 +12,7 @@
 > EDA完整工程、超大器件手册PDF不放在此仓库，工程文件单独存放在其他仓库。
 
 ## 📚 知识目录结构
+```
 pcb-basics-notes/
 ├── 01_Passive_Components/        # 无源器件【核心】
 │   ├── Resistor/                 # 电阻：类型、功率、温漂、噪声、高频特性、选型
@@ -32,7 +33,7 @@ pcb-basics-notes/
 ├── Attachments/                  # 图片、示意图、波形截图
 ├── README.md
 └── .gitignore
-
+```
 ## 📖 文档规范
 1. 文档使用 Markdown，VS Code / Typora 均可打开编辑
 2. 目录采用英文命名，笔记文件使用中文标题，方便检索阅读
